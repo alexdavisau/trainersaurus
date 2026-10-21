@@ -1,0 +1,5 @@
+id = "greet"
+version = "1.0.0"
+title = "Greetings"
+kind = "tech"
+summary = "A neutral fixture course for imports."
